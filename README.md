@@ -7,3 +7,8 @@ Citations:
 Jordan, Nicole Vincent et al. “HER2 expression identifies dynamic functional states within circulating breast cancer cells.” Nature vol. 537,7618 (2016): 102-106. 
 
 Butler, A., Hoffman, P., Smibert, P. et al. "Integrating single-cell transcriptomic data across different conditions, technologies, and species." Nat Biotechnol 36, 411–420 (2018).
+
+
+
+Public host for Shiny App Heatmap: 
+https://ebrophy.shinyapps.io/SingleCellBreastCancer_Heatmap/
